@@ -1,0 +1,45 @@
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:1:Test player trade resource with port ore wool.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:1:Test player trade resource with port ore wool is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:1:Test player trade resource with port ore wool.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:3:Test player buys settlement basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:3:Test player buys settlement basic is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:3:Test player buys settlement basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:5:Test get player resource for Brick.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:5:Test get player resource for Brick is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:5:Test get player resource for Brick.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:7:Test add no resources to a player's resources.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:7:Test add no resources to a player's resources is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:7:Test add no resources to a player's resources.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:10:Test increment victory points by 3 for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:10:Test increment victory points by 3 for a player is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:10:Test increment victory points by 3 for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:12:Test get a player's id.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:12:Test get a player's id is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:12:Test get a player's id.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:14:Test trade Wool for Ore for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:14:Test trade Wool for Ore for a player is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:14:Test trade Wool for Ore for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:15:player has settlement on node 0.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:15:player has settlement on node 0 is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:15:player has settlement on node 0.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:18:player trying to rebuy settlement at 0 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:18:player trying to rebuy settlement at 0 should fail is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:18:player trying to rebuy settlement at 0 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:19:player trying to buy city at 14 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:19:player trying to buy city at 14 should fail is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:19:player trying to buy city at 14 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:22:no one owns anything should return empy list.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:22:no one owns anything should return empy list is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:22:no one owns anything should return empy list.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:23:player has settlement at node 0, is on hex 0, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:23:player has settlement at node 0, is on hex 0, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:23:player has settlement at node 0, is on hex 0, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I:     should get one resource of type Brick when roll number of hex 0 is rolled.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:26:Test update game with a new board.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:26:Test update game with a new board is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:26:Test update game with a new board.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Start test test suite for Catan:28:Test update game with the same list of players.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: Test test suite for Catan:28:Test update game with the same list of players is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#02 I: End test test suite for Catan:28:Test update game with the same list of players.

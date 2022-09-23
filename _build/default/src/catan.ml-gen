@@ -1,0 +1,34 @@
+(** @canonical Catan.Author *)
+module Author = Catan__Author
+
+
+(** @canonical Catan.Board *)
+module Board = Catan__Board
+
+
+(** @canonical Catan.Development *)
+module Development = Catan__Development
+
+
+(** @canonical Catan.Display *)
+module Display = Catan__Display
+
+
+(** @canonical Catan.Game *)
+module Game = Catan__Game
+
+
+(** @canonical Catan.Input *)
+module Input = Catan__Input
+
+
+(** @canonical Catan.Output *)
+module Output = Catan__Output
+
+
+(** @canonical Catan.Player *)
+module Player = Catan__Player
+
+
+(** @canonical Catan.Printers *)
+module Printers = Catan__Printers

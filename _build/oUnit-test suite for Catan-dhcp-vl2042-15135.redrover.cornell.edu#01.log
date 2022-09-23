@@ -1,0 +1,54 @@
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:0:Test player with new resource basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:0:Test player with new resource basic is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:0:Test player with new resource basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:2:Test player buys city basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:2:Test player buys city basic is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:2:Test player buys city basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:4:Test player buys road basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:4:Test player buys road basic is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:4:Test player buys road basic.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:6:Test get player resource for Wool.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:6:Test get player resource for Wool is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:6:Test get player resource for Wool.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:8:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:8:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:8:Test add 5 Brick, 2 Ore, 3 Wool, 4 Lumber, and 1 Grain to a player's resources.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:9:Test getting victory points from a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:9:Test getting victory points from a player is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:9:Test getting victory points from a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:11:Test decrement victory points by 3 for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:11:Test decrement victory points by 3 for a player is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:11:Test decrement victory points by 3 for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:13:Test failing to trade Wool for Ore for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:13:Test failing to trade Wool for Ore for a player is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:13:Test failing to trade Wool for Ore for a player.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:16:player has settlement on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:16:player has settlement on node 18 is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:16:player has settlement on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:17:player has city on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:17:player has city on node 18 is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:17:player has city on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:20:player has road attatched to city on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:20:player has road attatched to city on node 18 is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:20:player has road attatched to city on node 18.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:21:player trying to buy road between 20 and 21 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:21:player trying to buy road between 20 and 21 should fail is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:21:player trying to buy road between 20 and 21 should fail.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:24:player has city at node 18, is on hex 3, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:24:player has city at node 18, is on hex 3, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:24:player has city at node 18, is on hex 3, 
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:     should get two resources of type Grain when roll number of hex 3 is rolled.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:25:player has
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:       port ThreeToOne since they own node 0.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:25:player has
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:       port ThreeToOne since they own node 0 is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:25:player has
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I:       port ThreeToOne since they own node 0.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:27:Test update game with the same board.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:27:Test update game with the same board is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:27:Test update game with the same board.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Start test test suite for Catan:29:Test city/settlement vps of board with no settlement and no cities.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: Test test suite for Catan:29:Test city/settlement vps of board with no settlement and no cities is successful.
+2021-12-12T22:09:29+00:00 dhcp-vl2042-15135.redrover.cornell.edu#01 I: End test test suite for Catan:29:Test city/settlement vps of board with no settlement and no cities.
