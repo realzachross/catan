@@ -6,9 +6,3 @@ A terminal-based version of Catan, written in OCaml for the CS 3110 Final Projec
 - Jack Li
 - Evan Williams
 - Emmett Breen
-
-## Current Phase
-In development. 
-# ocaml
-# ocaml
-# catan
